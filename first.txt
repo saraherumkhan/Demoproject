@@ -1,3 +1,5 @@
 This is my first git hands on
-Im going to commit it now
-Ill add few more things
+I'm going to commit it now
+I'll add few more things
+
+
