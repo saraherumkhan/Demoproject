@@ -1,6 +1,4 @@
 This is my first git hands on
-I'm going to commit it now
-I'll add few more things
-Im going to clone on remote
+
 
 
