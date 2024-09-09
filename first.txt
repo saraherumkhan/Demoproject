@@ -1,5 +1,9 @@
 This is my first git hands on
+<<<<<<< HEAD
 Moving back to main branch
 
+=======
+I have done stagging, commit, push and now ill be doing pull.
+>>>>>>> 3e2ba5e8843d7229168cae16e33c0b96e0ab36d9
 
 
